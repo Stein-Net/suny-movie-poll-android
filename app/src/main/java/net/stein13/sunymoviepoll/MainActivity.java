@@ -16,7 +16,8 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     // LOL Good luck Dakota. <3
-    // Github setup is a total bitch.
+    // Github setup is a total bitch.4
+    // Some changes to test github
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
