@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/classes-17b3f1306bb104199b487331ac9756015bf584d6.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/classes-5df3e7fea62618ed100f383ebaa6bdaebe991857.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-317749e85a30b24b15da2344532b20d6b1ca7151.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/56003dcd0a31deea6391b9e2ef2f2dc90b205a92/jcl-over-slf4j-1.7.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56003dcd0a31deea6391b9e2ef2f2dc90b205a92">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/jcl-over-slf4j-1.7.7-4f32d19a6c6aad9e524ea30e5dd7ed2ddcb7f7f8.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/commons-codec-1.10-89d241e9d36f70db235e17809b0f771edc940e73.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.4/d3dad1a494f94579fca4b6a1142fb15fb68f0b2f/jackson-annotations-2.4.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d3dad1a494f94579fca4b6a1142fb15fb68f0b2f">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.4-c27ccaabe2dca63222c3f9b4651a02ead3c1be7b.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/guava-18.0-b2e21a8ad1f301dca59f66669959234e7bb9d451.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7-305c582105e5a6588edc82fa79f71cb1f8e892f5.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/classes-9a55b14e599e672c1a0fe9340496e36e99a5d4af.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/ADT/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-51a44f88160e0159eb727dd8f0890aa383f92f77.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.4/c5cd3347c0a86d0dcfbf3da593d8431d5a789d54/jackson-core-2.4.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cd3347c0a86d0dcfbf3da593d8431d5a789d54">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.4-057663ed5d6f67c52aac31fa89d0db235c008c3c.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.4/e2ff13c3de2f5a2ab2449a3dace2b0d1c37bd8ee/jackson-databind-2.4.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e2ff13c3de2f5a2ab2449a3dace2b0d1c37bd8ee">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.4-03b80f3dc639653401bef24062ffe1a86de0cafc.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/info.movito/themoviedbapi/1.1/f0d7f1b1f78fc422bf50c4c6868b72a4f0ca7abc/themoviedbapi-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0d7f1b1f78fc422bf50c4c6868b72a4f0ca7abc">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/themoviedbapi-1.1-ba14dd54547f00c1a18111ef44745693054f655b.jar" />
+    </item>
+    <item
+        jar="/Users/gregory/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/gregory/Desktop/STEiN/Android/SUNYMoviePoll/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-d4591f96baca10b0fc506c0a3e23a647d29ed97e.jar" />
+    </item>
+
+</items>

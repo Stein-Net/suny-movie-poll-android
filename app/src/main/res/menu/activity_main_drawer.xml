@@ -2,14 +2,29 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
-        <item android:id="@+id/nav_camara" android:icon="@android:drawable/ic_menu_camera"
-            android:title="Import" />
-        <item android:id="@+id/nav_gallery" android:icon="@android:drawable/ic_menu_gallery"
-            android:title="Gallery" />
-        <item android:id="@+id/nav_slideshow" android:icon="@android:drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
-        <item android:id="@+id/nav_manage" android:icon="@android:drawable/ic_menu_manage"
-            android:title="Tools" />
+        <item android:id="@+id/nav_day1"
+              android:icon="@android:drawable/ic_menu_camera"
+              android:title="@string/day1" />
+
+        <item android:id="@+id/nav_day2"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day2" />
+        <item android:id="@+id/nav_day3"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day3" />
+        <item android:id="@+id/nav_day4"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day4" />
+        <item android:id="@+id/nav_day5"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day5" />
+        <item android:id="@+id/nav_day6"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day6" />
+        <item android:id="@+id/nav_day7"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/day7" />
+
     </group>
 
     <item android:title="Communicate">

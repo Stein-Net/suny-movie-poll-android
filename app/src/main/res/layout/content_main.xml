@@ -9,6 +9,74 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior" tools:showIn="@layout/app_bar_main"
     tools:context=".MainActivity">
 
-    <TextView android:text="Hello World!" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/app_name"
+        android:id="@+id/day_text_view"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to_use"
+        android:id="@+id/help_text"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_3_button"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_below="@+id/movie_1_button"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_4_button"
+
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_below="@+id/movie_1_button"
+        android:layout_toEndOf="@+id/movie_3_button" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_1_button"
+
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_below="@+id/day_text_view"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_2_button"
+        android:layout_above="@+id/movie_3_button"
+        android:layout_toEndOf="@+id/movie_3_button"
+
+        android:src="@android:drawable/ic_menu_gallery"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_5_button"
+        android:layout_below="@+id/movie_3_button"
+        android:layout_alignParentStart="true"
+
+        android:src="@android:drawable/ic_menu_gallery"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_6_button"
+        android:layout_below="@+id/movie_4_button"
+        android:layout_alignStart="@+id/movie_4_button"
+        android:src="@android:drawable/ic_menu_gallery"/>
+
 </RelativeLayout>

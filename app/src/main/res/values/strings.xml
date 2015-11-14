@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">SUNY Movie Poll</string>
-
+    <string name="contact_email">contact@stein13.net</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string name="how_to_use">How to use this app: \nSelect a day of the week from the sidebar on the left\nthen select the movie you would like to see that day.</string>
     <string name="action_settings">Settings</string>
 </resources>

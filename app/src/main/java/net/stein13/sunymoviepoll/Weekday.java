@@ -21,7 +21,7 @@ public class Weekday {
     public Weekday(String day1){
         day = day1;
         url = "https://suny-movie-poll.firebaseio.com/movie-list/" + day + ".json";
-       
+       //setData();
     }
 
     public String getJSON(int timeout) {
@@ -67,7 +67,8 @@ public class Weekday {
         return null;
     }
     public void setData() {
-        String data = getJSON();
+        String data = getJSON(50);
+        System.out.println(data);
 
     }
 
