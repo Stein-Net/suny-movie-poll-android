@@ -1,14 +1,9 @@
 package net.stein13.sunymoviepoll;
 
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import android.app.DownloadManager;
+
+import org.json.JSONObject;
 
 /**
  * Created by gregory on 10/24/15.
@@ -17,9 +12,9 @@ public class Weekday {
     private String day;
     private String movies[] = {"movie1", "movie2", "movie3", "movie4", "movie5", "movie6"};
     private int votes[] = {0,0,0,0,0,0};
-    String url = "";
     public Weekday(String day1){
         day = day1;
+<<<<<<< HEAD
         url = "https://suny-movie-poll.firebaseio.com/movie-list/" + day + ".json";
        //setData();
     }
@@ -71,6 +66,12 @@ public class Weekday {
         System.out.println(data);
 
     }
+=======
+        String url = "https://suny-movie-poll.firebaseio.com/movie-list/" + day + ".json";
+       
+    }
+
+>>>>>>> origin/master
 
 
 }

@@ -19,6 +19,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     // LOL Good luck Dakota. <3
+<<<<<<< HEAD
     // Github setup is a total bitch.
     TextView weekday_text;
     TextView help_text;
@@ -26,6 +27,10 @@ public class MainActivity extends AppCompatActivity
     ImageButton movie1, movie2, movie3, movie4, movie5, movie6;
 
 
+=======
+    // Github setup is a total bitch.4
+    // Some changes to test github
+>>>>>>> origin/master
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
